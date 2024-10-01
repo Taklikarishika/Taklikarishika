@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ishikataklikar26@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1i0-t1uPWoAdgCrAlnuWcKDcw4O1sa_QR/view?usp=drive_link)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1Kg8cvjmJg2HKYMylwfQdNqVowJGQbMXV/view?usp=drive_link)
 
 - ⚡ Fun fact **let's go on a run**
 
