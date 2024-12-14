@@ -2,20 +2,28 @@
 <h3 align="center">A passionate Data Analysts from India</h3>
 
 - 🔭 I’m currently working on **Sentimental Analysis project**
+  
 
 - 🌱 I’m currently learning **Sentimental Analysis, Data Science , etc**
+  
 
 - 👯 I’m looking to collaborate on **Projects based on Data Analysis, Machine Learning, Deep Learning , SQL , Power BI**
+  
 
 - 👨‍💻 All of my projects are available at [on Working](on Working)
+  
 
 - 📝 I regularly write articles on [https://medium.com/@ishikataklikar26](https://medium.com/@ishikataklikar26)
+  
 
 - 📫 How to reach me **ishikataklikar26@gmail.com**
+  
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1Kg8cvjmJg2HKYMylwfQdNqVowJGQbMXV/view?usp=drive_link)
+  
 
 - ⚡ Fun fact **let's go on a run**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
