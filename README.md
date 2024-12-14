@@ -5,12 +5,18 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently Working On**: Sentiment Analysis Project  
-- 🌱 **Learning**: Data Science, Machine Learning, Sentiment Analysis  
-- 👯 **Open to Collaborate On**: Projects involving Data Analysis, Machine Learning, SQL, Power BI, and Deep Learning  
-- 📝 **Medium Articles**: [Explore My Blogs](https://medium.com/@ishikataklikar26)  
-- 📄 **View My Resume**: [Ishika Taklikar - Resume](https://drive.google.com/file/d/1Kg8cvjmJg2HKYMylwfQdNqVowJGQbMXV/view?usp=drive_link)  
-- 📫 **Reach Me At**: ishikataklikar26@gmail.com  
+- 🔭 **Currently Working On**: Sentiment Analysis Project
+   
+- 🌱 **Learning**: Data Science, Machine Learning, Sentiment Analysis
+  
+- 👯 **Open to Collaborate On**: Projects involving Data Analysis, Machine Learning, SQL, Power BI, and Deep Learning
+  
+- 📝 **Medium Articles**: [Explore My Blogs](https://medium.com/@ishikataklikar26)
+  
+- 📄 **View My Resume**: [Ishika Taklikar - Resume](https://drive.google.com/file/d/1Kg8cvjmJg2HKYMylwfQdNqVowJGQbMXV/view?usp=drive_link)
+  
+- 📫 **Reach Me At**: ishikataklikar26@gmail.com
+  
 - ⚡ **Fun Fact**: I’m always up for a run!  
 
 ---
@@ -19,6 +25,8 @@
 <p>
   <a href="https://www.linkedin.com/in/ishika-taklikar-8b52a324a" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+  <a>
   </a>
   <a href="https://kaggle.com/ishikavijaytaklikar" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="30" height="30" />
