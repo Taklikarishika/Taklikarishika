@@ -23,12 +23,6 @@
   <a href="https://kaggle.com/ishikavijaytaklikar" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="30" height="30" />
   </a>
-  <a href="https://medium.com/@ishikataklikar26" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="Medium" width="30" height="30" />
-  </a>
-  <a href="http://www.youtube.com/@ishikataklikar-1234" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube" width="30" height="30" />
-  </a>
 </p>
 
 ---
