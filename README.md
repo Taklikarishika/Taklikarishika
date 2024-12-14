@@ -1,42 +1,68 @@
-<h1 align="center">Hi 👋, I'm Ishika</h1>
-<h3 align="center">A passionate Data Analysts from India</h3>
+<h1 align="center">Hi 👋, I'm Ishika Taklikar</h1>
+<h3 align="center">A Passionate Data Analyst and Machine Learning Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Sentimental Analysis project**
-  
+---
 
-- 🌱 I’m currently learning **Sentimental Analysis, Data Science , etc**
-  
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Projects based on Data Analysis, Machine Learning, Deep Learning , SQL , Power BI**
-  
+- 🔭 **Currently Working On**: Sentiment Analysis Project  
+- 🌱 **Learning**: Data Science, Machine Learning, Sentiment Analysis  
+- 👯 **Open to Collaborate On**: Projects involving Data Analysis, Machine Learning, SQL, Power BI, and Deep Learning  
+- 📝 **Medium Articles**: [Explore My Blogs](https://medium.com/@ishikataklikar26)  
+- 📄 **View My Resume**: [Ishika Taklikar - Resume](https://drive.google.com/file/d/1Kg8cvjmJg2HKYMylwfQdNqVowJGQbMXV/view?usp=drive_link)  
+- 📫 **Reach Me At**: ishikataklikar26@gmail.com  
+- ⚡ **Fun Fact**: I’m always up for a run!  
 
-- 👨‍💻 All of my projects are available at [on Working](on Working)
-  
+---
 
-- 📝 I regularly write articles on [https://medium.com/@ishikataklikar26](https://medium.com/@ishikataklikar26)
-  
-
-- 📫 How to reach me **ishikataklikar26@gmail.com**
-  
-
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1Kg8cvjmJg2HKYMylwfQdNqVowJGQbMXV/view?usp=drive_link)
-  
-
-- ⚡ Fun fact **let's go on a run**
-  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishika-taklikar-8b52a324a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bbitto9pxrimhk%2fe4xk1bcw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishika-taklikar-8b52a324a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bbitto9pxrimhk%2fe4xk1bcw%3d%3d" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ishikavijaytaklikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ishikavijaytaklikar" height="30" width="40" /></a>
-<a href="https://medium.com/@ishikataklikar26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ishikataklikar26" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://www.youtube.com/@ishikataklikar-1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@ishikataklikar-1234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ishika-06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ishika-06/" height="30" width="40" /></a>
-<a href="https://discord.gg/ishika_taklikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ishika_taklikar" height="30" width="40" /></a>
+### 🌐 Let's Connect
+<p>
+  <a href="https://www.linkedin.com/in/ishika-taklikar-8b52a324a" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+  <a href="https://kaggle.com/ishikavijaytaklikar" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="30" height="30" />
+  </a>
+  <a href="https://medium.com/@ishikataklikar26" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="Medium" width="30" height="30" />
+  </a>
+  <a href="http://www.youtube.com/@ishikataklikar-1234" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube" width="30" height="30" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 💻 Technologies & Tools
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" />
+</p>
 
-in the last it have lots of option of platform remove it and make it more professional
+---
+
+### 🌟 Highlights
+- 🏆 Completed **Advanced Designer Certificate** from Dataiku  
+- 📊 Developed interactive **Power BI Dashboards** for Sales Analysis  
+- 🔍 Conducted **Machine Learning Projects** including Customer Churn Prediction and Market Value Analysis of Football Players  
+- ✨ Published insightful articles on **Medium** showcasing Data Science and Machine Learning knowledge  
+
+---
+
+### 💡 Featured Projects
+1. **Customer Churn Analysis**: Built predictive models using Dataiku and Python to identify key churn indicators and suggest actionable insights.  
+2. **Market Value Prediction for Football Players**: Leveraged Regression models and Genetic Algorithms for player valuation based on FPL stats and Wikipedia views.  
+3. **Sentiment Analysis**: Analyzing public sentiments on political posts to predict election outcomes in Maharashtra, 2024.  
+4. **Transformer Health Monitoring**: IoT-based project for predictive maintenance of transformers.
+
+---
+
+✨ *Let’s collaborate to create impactful data-driven solutions!*  
